@@ -1,2 +1,2 @@
-# vllm_bm
-repo to automate vllm benchmarks
+# vllmPD
+repo to test vllm prefill decoding disaggregation
